@@ -26,9 +26,9 @@ Each project will contain clear explanations, code, and documentation to make it
 
 ## 🌐 Connect with Me
 
-- **LinkedIn**: [Your LinkedIn]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/sarthakmangalmurti/))
+- **LinkedIn**: [Your LinkedIn]((https://www.linkedin.com/in/sarthakmangalmurti)
 - **Medium**: [Your Medium](https://medium.com/@sarthakmangalmurti)
-- **Kaggle**: [Your Kaggle]([https://www.kaggle.com/yourusername](https://www.kaggle.com/sarthakmangalmurti/Home))
+- **Kaggle**: [Your Kaggle](https://www.kaggle.com/sarthakmangalmurti)
 
 ---
 
